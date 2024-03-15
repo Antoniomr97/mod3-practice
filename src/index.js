@@ -1,0 +1,23 @@
+import * as exercises from "./exercises";
+import { showContent } from "./utils";
+
+showContent(1, exercises.exercise1("Antonio"));
+showContent(2, exercises.exercise2(7));
+showContent(3, exercises.exercise3("Hello World"));
+showContent(4, exercises.exercise4("Hi, I am learning Javascript"));
+showContent(5, exercises.repetitions("code"));
+showContent(6, exercises.exercise6(100));
+showContent(7, exercises.exercise7("Dábale arroz a la zorra el abad"));
+showContent(8, exercises.exercise8("Hello World"));
+showContent(9, exercises.exercise9("Hello World"));
+showContent(10, exercises.exercise10());
+showContent(11, exercises.exercise11());
+showContent(12, exercises.exercise12());
+showContent(13, exercises.exercise13());
+showContent(14, exercises.exercise14());
+showContent(15, exercises.exercise15());
+showContent(16, exercises.exercise16(27957));
+showContent(17, exercises.exercise17("hola mundo"));
+showContent(18, exercises.exercise18("No existen desafios imposibles sino voluntades pequeñas"));
+showContent(19, exercises.exercise19("Hello World"));
+showContent(20, exercises.exercise20(8));
